@@ -38,7 +38,7 @@ You are free to make the changes as per your requirement.
 Now when you open the `.env` inside the project, you will see set of following variables.
 
 ```ts
-DEFAULT_DB=pg
+DEFAULT_DB=sqlite
 DEFAULT_CACHE=memory
 DEFAULT_QUEUE=sync
 DEFAULT_STORAGE=local
